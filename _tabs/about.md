@@ -38,6 +38,6 @@ You can expect posts about:
 
 ## Connect With Me
 
-* **GitHub:** https://github.com/officially-suraj
+* **GitHub:** [officially-suraj](https://github.com/officially-suraj)
 
 Thanks for visiting my website!
