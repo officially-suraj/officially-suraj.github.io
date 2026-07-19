@@ -29,7 +29,7 @@ Its scriptability and customizability have made tmux a famous tool among develop
 
 ## Installation
 
-Most Linux distributions provide tmux through their package manager. On macOS, you can install it using Homebrew. Windows users can install it through the Windows Subsystem for Linux (WSL), or follow the official [installation guide]().
+Most Linux distributions provide tmux through their package manager. On macOS, you can install it using Homebrew. Windows users can install it through the Windows Subsystem for Linux (WSL), or follow the official [installation guide](https://github.com/tmux/tmux/wiki/Installing).
 
 On Debian-based distributions:
 
