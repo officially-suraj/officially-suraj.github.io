@@ -1,7 +1,7 @@
 ---
 layout: post
 title: tmux Begineer's guide
-date: 2026-07-20 08:00 +0530
+date: 2026-07-20 08:00:00 +0530
 categories: linux terminal
 tags:
   - tmux
